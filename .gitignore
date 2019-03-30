@@ -1,2 +1,11 @@
+# EDITOR RELATED
 .idea/
 .vscode/
+
+# JS RELATED
+node_modules/
+
+# PYTHON Related
+.coverage
+htmlcov/
+*.sqlite3
